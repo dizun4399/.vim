@@ -1,2 +1,3 @@
-language:English [[语言:中文][readme_cn.org]]
+
 *My vim configration
+language:English [[语言:中文][readme_cn.org]]
