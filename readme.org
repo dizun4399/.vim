@@ -1,3 +1,3 @@
 
 * My vim configration
-language:English [[语言:中文][readme_cn.org]]
+language:English [[./readme_cn.org][中文版本]]
