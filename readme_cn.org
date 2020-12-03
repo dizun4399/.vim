@@ -1,0 +1,2 @@
+language:English 语言:中文
+*我的vim 配置
