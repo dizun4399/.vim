@@ -13,7 +13,7 @@ set showtabline=0
 set guifont=Monaco:h13         
 syntax on    "开启语法高亮"
 
-colorscheme solarized
+"colorscheme solarized
 "set background=dark
 let g:solarized_termcolors=256 "solarized主题设置在终端下的设置"        "设置背景色"
 set nowrap    "设置不折行"
@@ -44,7 +44,7 @@ highlight CursorColumn cterm=None ctermbg=black ctermfg=green"
 
 
 filetype off
-set rtp+=./bundle/Vundle.vim
+set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'vim-syntastic/syntastic'
